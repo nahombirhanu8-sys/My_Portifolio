@@ -35,7 +35,8 @@ I’m **Nahom Birhanu**, a passionate software engineer with a strong interest i
 ---
 
 ## 📸 Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/753c8e4f-9f89-49ad-abe0-8a765ea09c9b" />
+<img width="1920" height="1000" alt="image" src="https://github.com/user-attachments/assets/a00aa7f1-814d-4161-859b-17da84d91279" />
+
 
 
 ## 📬 Contact
